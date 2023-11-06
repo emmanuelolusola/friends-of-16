@@ -65,7 +65,7 @@ To get started with the project, you need to set up your development environment
 - **Clone the project repository from GitHub**:
 
    ```bash
-   git clone https://github.com/username/project.git
+   git clone https://github.com/emmanuelolusola/friends-of-16.git
    ```
 
 ### 5. Install Project Dependencies
@@ -119,7 +119,8 @@ The project's directory structure is organized to promote a clear separation of 
    ├── pages/
    │   ├── Today.vue
    │   ├── My16.vue
-   |   ├── GenerateCode.vue
+   |   ├── Events.vue
+   |   ├── Profile.vue
    │   └── ...
    ```
 
